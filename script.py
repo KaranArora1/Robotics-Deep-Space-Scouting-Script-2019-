@@ -20,6 +20,8 @@ import requests
         # Eventualy move match number column to beginning
         #Make APP that has QR codes and has cycle times by allowing you to hit a button and recording the time between the hits
         #TALK TO 1188
+        # GZIP
+        # WEBHOOKS
 
     # Questions
         # Do they care about comp level and the order of matches?
